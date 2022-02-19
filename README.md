@@ -1,2 +1,11 @@
-# Processing3Code
-This is a training project graphic with Processing3Code
+<p align="center">
+  <img alt="Processing3" src="https://github.com/algokelvin-373/Processing3Code/blob/feature/readme/processing3_logo.png" width="100" height="100">
+  <h1 align="center">Processing3 Tutorial Fundamental</h1>
+</p>
+<h3 align="center">Processing3 Tutorial Fundamental</h3>
+
+<p align="center">
+  <a href="https://github.com/algokelvin-373"><img alt="Github" src="https://img.shields.io/github/followers/algokelvin-373?label=follow&style=social"></a>
+  <a href="https://www.youtube.com/c/AlgoKelvin373/"><img alt="Youtube" src="https://img.shields.io/youtube/channel/views/UCpSHZFRx64xWwXYbWbyXxfw?style=social"></a>
+  <a href="https://www.youtube.com/c/AlgoKelvin373/"><img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCpSHZFRx64xWwXYbWbyXxfw?style=social"></a>
+</p>
